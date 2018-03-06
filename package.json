@@ -1,0 +1,26 @@
+{
+  "name": "@lumavate/designer-properties",
+  "version": "0.1.1",
+  "description": "All property types supported by the designer to aid in building widgets",
+  "main": "build/main.js",
+  "files": [
+    "build/"
+  ],
+  "scripts": {
+    "dev": "backpack dev",
+    "build": "backpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lumavate-Team/js-properties.git"
+  },
+  "author": "Lumavate Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lumavate-Team/js-properties/issues"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.5.0"
+  },
+  "homepage": "https://github.com/Lumavate-Team/js-properties#readme"
+}
