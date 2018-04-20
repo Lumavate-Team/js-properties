@@ -28,3 +28,12 @@ export class ComponentProperty extends BaseProperty {
     this.type = 'component'
   }
 }
+
+export class ComponentsProperty extends ComponentProperty {
+  constructor() {
+    super()
+
+    this.default = []
+    this.type = 'components'
+  }
+}
