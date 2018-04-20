@@ -1,6 +1,6 @@
 {
   "name": "@lumavate/designer-properties",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "All property types supported by the designer to aid in building widgets",
   "main": "build/main.js",
   "files": [

@@ -1,6 +1,6 @@
 export { CheckboxProperty } from './checkbox'
 export { ColorProperty } from './color'
-export { Component, ComponentOptions, ComponentProperty } from './component'
+export { Component, ComponentOptions, ComponentProperty, ComponentsProperty } from './component'
 export { DropdownProperty } from './dropdown'
 export { ImageProperty } from './image'
 export { MultiSelectOptions, MultiSelectProperty } from './multiselect'
